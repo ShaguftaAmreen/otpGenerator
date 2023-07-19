@@ -1,0 +1,23 @@
+#otp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    width: 50vw;
+    border: 2px solid rgb(78, 78, 78);
+    border-radius: 10px;
+    background-color: rgb(66, 66, 66);
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#field{
+    margin-bottom: 30px;
+    padding: 10px;
+}
+#btn{
+    margin-left: 42px;
+}
